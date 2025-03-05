@@ -12,8 +12,8 @@ This repository contains a Power BI dashboard analyzing population trends by con
 
 ## 📂 Files
 - **Dashboard-ss.png** - The dashboard visualization.
-- **Population-Analysis** - The raw data used (if available).
-- **Population-Analysis.pbix** - Power BI file for further analysis (if available).
+- **Population-Analysis** - The raw data used .
+- **Population-Analysis.pbix** - Power BI file for further analysis.
 
 ## 📌 How to Use
 1. Download the `Population-Analysis.pbix` file to open it in Power BI.
